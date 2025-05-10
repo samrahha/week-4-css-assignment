@@ -1,0 +1,34 @@
+h1{
+    color: #F35695
+    
+}
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+h1{font-family: "pressio", sans-serif;
+    font-weight: 700;
+    font-style: normal;}
+
+p {
+    font-family: "omnes-pro", sans-serif;
+font-weight: 500;
+font-style: normal;
+
+  }
+
+p{
+    color:#f98805
+}
+  body {
+    background-color: #F8DBDB
+  }
+
+#one{
+    border: 3px solid rgb(252, 182, 90);
+    padding: 12px 20px;
+    text-align: justify;
+
+  }
